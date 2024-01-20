@@ -1,0 +1,7 @@
+{
+  "name": "listadecontatos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
